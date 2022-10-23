@@ -25,3 +25,18 @@ We learned about the shoulder surfing, how it works and we provide a method to s
 
 ## What's next for EyeLoc
 Future scope for EyeLoc would be to integrate it with the applications like banking where security is main feature and people can not afford to loose there password due to shoulder surfing.
+
+## Working
+<ol>
+<li> Registeration <br>
+<img src="https://github.com/VinayakPatkar/EyeLoc/blob/d3e45f74659e4d538eedf53048d877278980e7b3/Views/asserts/reg.jpeg">
+</li>
+<li> Login <br>
+<img src="https://github.com/VinayakPatkar/EyeLoc/blob/d3e45f74659e4d538eedf53048d877278980e7b3/Views/asserts/login.jpeg">
+</li>
+<li> Graphical Method to enter Password <br>
+<img src="https://github.com/VinayakPatkar/EyeLoc/blob/d3e45f74659e4d538eedf53048d877278980e7b3/Views/asserts/graphic.jpeg">
+</li>
+<li> Home Page <br>
+<img src="https://github.com/VinayakPatkar/EyeLoc/blob/d3e45f74659e4d538eedf53048d877278980e7b3/Views/asserts/home.jpeg">
+</li>
