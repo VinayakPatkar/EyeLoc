@@ -43,7 +43,7 @@ Future scope for EyeLoc would be to integrate it with the applications like bank
   
 
 
-## 🔥 Team FourthDimension
+## 🔥 Team EyeLoc
 - <a href="https://github.com/Aaryan246">Aaryan</a>
 - <a href="https://github.com/karishmarajput">Karishma</a>
 - <a href="https://github.com/dark-shad">Pratik </a>
