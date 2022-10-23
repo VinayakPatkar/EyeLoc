@@ -43,6 +43,22 @@ function QueryStringToJSON(string,parse=false) {
     else
         return JSON.stringify(result);
 }
+function getUser(email){
+   const email = document.getElementById('email');
+   fetch('/validate',{
+        method:'post',
+        headers:{
+            "Content-Type":"application/json"
+        },
+        body:JSON.stringify({
+            email:email
+        }),
+    }).then(res => res.json())
+    .then((data)=>{
+       userColour = data.colour
+       pass=data.password
+    })
+}
 
 function updateColor(){
     for(let i = 1; i <= 6;i++){
